@@ -1,5 +1,9 @@
 # Weakly supervised object detection and localization
-This repository contains lists of state-or-art weakly supervised detection or localization works
+A paper list of state-of-the-art weakly supervised object detection or localization.
+
+## Relevant repositories:
+- [Deep Learning Object Detection](https://github.com/hoya012/deep_learning_object_detection)
+- [Weakly Supervised Semantic Segmentation](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
 ## Table of Contents
 - [2015](#before-2015)
