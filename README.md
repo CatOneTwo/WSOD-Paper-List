@@ -1,7 +1,7 @@
 # Weakly supervised object detection and localization
 A paper list of state-of-the-art weakly supervised object detection or localization.
 
-## Relevant repositories:
+## Relevant Repositories
 - [Deep Learning Object Detection](https://github.com/hoya012/deep_learning_object_detection)
 - [Weakly Supervised Semantic Segmentation](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
@@ -104,6 +104,12 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 - **[SLV]** SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection. **[ 2020]** [[`pdf`](https://arxiv.org/abs/2006.12884)]
 
 - Towards Precise End-to-end Weakly Supervised Object Detection Network. **[ICCV 2020]** [[`pdf`](https://arxiv.org/abs/1911.12148)]
+
+---
+# Contact & Feedback
+If you have any suggestions about papers, feel free to mail me :)
+- [Email](19120359@bjtu.edu.cn)
+- [Pull Request](https://github.com/CatOneTwo/Weakly-Supervised-Object-Detection/pulls)
 
 
 
