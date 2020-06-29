@@ -70,7 +70,7 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 
 - **[W2F]** W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection. **[CVPR 2018]** [[`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.pdf)]
 
-- **[PCL]** PCL: Proposal Cluster Learning for Weakly Supervised Object Detection. **[TPAMI 2018]** [[`pdf`](https://arxiv.org/abs/1807.03342)]  [[`official code-caffe`](https://github.com/ppengtang/oicr/tree/pcl)] [[`official code-torch`](https://github.com/vadimkantorov/caffemodel2pytorch/blob/master/README.md)]
+- **[PCL]** PCL: Proposal Cluster Learning for Weakly Supervised Object Detection. **[TPAMI 2018]** [[`pdf`](https://arxiv.org/abs/1807.03342)]  [[`official code-caffe`](https://github.com/ppengtang/oicr/tree/pcl)] [[`official code-torch`](https://github.com/ppengtang/pcl.pytorch)]
 
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. **[CVPR 2018]** [[`pdf`](https://arxiv.org/abs/1803.11365)]  [[`official code`](https://github.com/naoto0804/cross-domain-detection)]
 
