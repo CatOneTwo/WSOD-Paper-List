@@ -1,4 +1,4 @@
-# Weakly supervised object detection and localization (WSOD)
+# Weakly supervised object detection (WSOD)
 A paper list of state-of-the-art weakly supervised object detection or localization.
 
 ## Relevant Repositories
