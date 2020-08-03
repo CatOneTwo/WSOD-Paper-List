@@ -113,6 +113,8 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 
 - **[OIM]** Object Instance Mining for Weakly Supervised Object Detection. **[AAI 2020]** [[`pdf`](https://arxiv.org/abs/2002.01087)]  [[`official code-caffe`](https://github.com/bigvideoresearch/OIM)]
 
+- **[BOICR]** Distilling Knowledge from Refinement in Multiple Instance Detection Networks. **[Deep Vision 2020 CVPR workshop]** [[`pdf`](https://arxiv.org/abs/2004.10943)] [[`official code-torch`](https://github.com/luiszeni/Boosted-OICR)]
+
 ---
 # Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
