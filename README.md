@@ -12,8 +12,8 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 - [2016](#2016)
 - [2017](#2017)
 - [2018](#2018)
-- [2019](@2019)
-- [2020](2020)
+- [2019](#2019)
+- [2020](#2020)
 
 ## Before 2015
 - Weakly Supervised Localization and Learning with Generic Knowledge. **[IJCV 2012]**  [[`pdf`](https://www.tpbin.com/Uploads/Subjects/b978d659-6777-4cfd-8691-cf50e2061f13.pdf)]
