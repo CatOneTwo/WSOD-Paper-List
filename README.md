@@ -31,7 +31,7 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 - Weakly supervised object detection with convex clustering. **[CVPR 2015]** [[`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_118_ext.pdf)]
 
 ## 2016
-- **[WSDDN]** Weakly Supervised Deep Detection Networks. **[CVPR 2016]** [[`pdf`](https://arxiv.org/abs/1511.02853)] [[`official code-matlab`](https://github.com/hbilen/WSDDN)] [[`unofficial code-torch`](https://github.com/adursun/wsddn.pytorch)]
+- **[WSDDN]** Weakly Supervised Deep Detection Networks. **[CVPR 2016]** [[`pdf`](https://arxiv.org/abs/1511.02853)] [[`official code-matlab`](https://github.com/hbilen/WSDDN)] [[`unofficial code-torch`](https://github.com/adursun/wsddn.pytorch)] [[`unofficial code-torch`](https://github.com/CatOneTwo/WSDDN-PyTorch)]
 
 - **[ProNet]** ProNet: Learning to Propose Object-Specific Boxes for Cascaded Neural Networks. **[CVPR 2016]** [[`pdf`](https://arxiv.org/abs/1511.03776)]
 
@@ -49,7 +49,7 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 ## 2017
 - **[WCCN]** Weakly Supervised Cascaded Convolutional Networks. **[CVPR 2017]** [[`pdf`](https://arxiv.org/abs/1611.08258)]
 
-- **[OICR]** Multiple Instance Detection Network with Online Instance Classifier Refinement. **[CVPR 2017]** [[`pdf`](https://arxiv.org/abs/1704.00138)] [[`official code-caffe`](https://github.com/ppengtang/oicr)] [[`unofficial code-torch`](https://github.com/jd730/OICR-pytorch)]
+- **[OICR]** Multiple Instance Detection Network with Online Instance Classifier Refinement. **[CVPR 2017]** [[`pdf`](https://arxiv.org/abs/1704.00138)] [[`official code-caffe`](https://github.com/ppengtang/oicr)] [[`unofficial code-torch`](https://github.com/CatOneTwo/OICR-PyTorch)] [[`unofficial code-torch`](https://github.com/jd730/OICR-pytorch)]
 
 - **[GPMIL]** Variational Bayesian Multiple Instance Learning With Gaussian Processes. **[CVPR 2017]** [[`pdf`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haussmann_Variational_Bayesian_Multiple_CVPR_2017_paper.pdf)] [[`official code`](https://github.com/manuelhaussmann/vgpmil)]
 
