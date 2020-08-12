@@ -104,16 +104,14 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 ## 2020
 
 - High-Quality Proposals for Weakly Supervised Object Detection. **[TIP 2020]**
-
 - Progressive Representation Adaptation for Weakly Supervised Object Localization. **[TPAMI 2020]** [[`pdf`](https://arxiv.org/abs/1710.04647)]
-
 - Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection. **[CVPR 2020]** [[`pdf`](https://arxiv.org/abs/2004.04725)]  [[`official code`](https://github.com/NVlabs/wetectron)] 
-
 - **[SLV]** SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection. **[ 2020]** [[`pdf`](https://arxiv.org/abs/2006.12884)]
-
 - **[OIM]** Object Instance Mining for Weakly Supervised Object Detection. **[AAI 2020]** [[`pdf`](https://arxiv.org/abs/2002.01087)]  [[`official code-caffe`](https://github.com/bigvideoresearch/OIM)]
-
 - **[BOICR]** Distilling Knowledge from Refinement in Multiple Instance Detection Networks. **[Deep Vision 2020 CVPR workshop]** [[`pdf`](https://arxiv.org/abs/2004.10943)] [[`official code-torch`](https://github.com/luiszeni/Boosted-OICR)]
+- **[WSOD Transfer]** Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer. **[ECCV 2020]** [[`pdf`](http://arxiv.org/abs/2007.07986)] [[`official code-torch`](https://github.com/mikuhatsune/wsod_transfer)]
+- **[EIL]** Erasing Integrated Learning : A Simple yet Effective Approach for Weakly Supervised Object Localization. **[ CVPR 2020]** [[`pdf`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mai_Erasing_Integrated_Learning_A_Simple_Yet_Effective_Approach_for_Weakly_CVPR_2020_paper.pdf)]
+- **[PSOL]** Rethinking the Route Towards Weakly Supervised Object Localization. **[CVPR 2020]** [[`pdf`](http://arxiv.org/abs/2002.11359)]
 
 ---
 # Contact & Feedback
