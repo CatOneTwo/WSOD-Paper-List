@@ -5,6 +5,7 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 - [Deep Learning Object Detection](https://github.com/hoya012/deep_learning_object_detection) ![Github stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection.svg)
 - [Weakly Supervised Semantic Segmentation](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList) ![Github stars](https://img.shields.io/github/stars/JackieZhangdx/WeakSupervisedSegmentationList.svg)
 - [Weakly-/Semi-Supervised Learning in Computer Vision](https://github.com/TinyGrass/CV_WSSL) ![Github stars](https://img.shields.io/github/stars/TinyGrass/CV_WSSL.svg)
+- [Weakly-Supervised-Object-Localization](https://github.com/xiaomengyc/Weakly-Supervised-Object-Localization) ![Github stars](https://img.shields.io/github/stars/xiaomengyc/Weakly-Supervised-Object-Localization.svg)
 - [WSOD Paper List](https://github.com/wcy1122/WSOD_Paper_List) ![Github stars](https://img.shields.io/github/stars/wcy1122/WSOD_Paper_List.svg)
 
 ## Table of Contents
