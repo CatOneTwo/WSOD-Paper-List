@@ -1,6 +1,5 @@
 # Weakly supervised object detection (WSOD)
-A paper list of state-of-the-art weakly supervised object detection or localization.
-
+A paper list of state-of-the-art weakly supervised object detection (WSOD) or localization (WSOL).
 
 
 <div align="center">
@@ -17,6 +16,8 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 </p>
 </div>
 
+
+
 <!--## Table of Contents
 - [2015](#before-2015)
 - [2016](#2016)
@@ -26,8 +27,20 @@ A paper list of state-of-the-art weakly supervised object detection or localizat
 - [2020](#2020)-->
 
 ## 2023
+### WSOD
+- Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2303.08686)]  [[`official code`](https://github.com/weakmono3d/weakmono3d)]
+- Scaling Novel Object Detection with Weakly Supervised Detection Transformers. **[WACV 2023]** [[`pdf`](https://arxiv.org/pdf/2207.05205.pdf)]  [[`official code-torch`](https://github.com/tmlabonte/weakly-supervised-DETR)]
 
 ## 2022
+### WSOD
+- Salvage of Supervision in Weakly Supervised Detection. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2106.04073)]]
+- H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection. **[CVPR 2022]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf)]  [[`official code-torch`](https://github.com/XuYunqiu/H2FA_R-CNN)]
+- Object Discovery via Contrastive Learning for Weakly Supervised Object Detection. **[ECCV 2022]** [[`pdf`](https://arxiv.org/abs/2208.07576)]  [[`official code-torch`](https://github.com/jinhseo/OD-WSCL)]
+- Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts. **[CVIU 2022]** [[`pdf`](https://arxiv.org/abs/2008.01178)]  [[`official code-tf`](https://github.com/ngonthier/Mi_max)]
+- Selecting High-Quality Proposals for Weakly Supervised Object Detection With Bottom-Up Aggregated Attention and Phase-Aware Loss. **[TIP 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/10003247)]]
+- FI-WSOD: Foreground Information Guided Weakly Supervised Object Detection. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/9854139)]]
+- Weakly Supervised Object Detection with Class Prototypical Network. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/abstract/document/9826802)]]
+- 
 
 ## 2021
 
