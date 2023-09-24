@@ -28,34 +28,40 @@ A paper list of state-of-the-art weakly supervised object detection (WSOD) or lo
 
 ## 2023
 ### WSOD
-- Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2303.08686)]  [[`official code`](https://github.com/weakmono3d/weakmono3d)]
-- DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2304.07082)]]
-- Scaling Novel Object Detection with Weakly Supervised Detection Transformers. **[WACV 2023]** [[`pdf`](https://arxiv.org/pdf/2207.05205.pdf)]  [[`official code-torch`](https://github.com/tmlabonte/weakly-supervised-DETR)]
+- **[weakmono3d]** Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2303.08686)]  [[`official code`](https://github.com/weakmono3d/weakmono3d)]
+- **[DETR-GA]** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2304.07082)]
+- **[WS-DETR]** Scaling Novel Object Detection with Weakly Supervised Detection Transformers. **[WACV 2023]** [[`pdf`](https://arxiv.org/pdf/2207.05205.pdf)]  [[`official code-torch`](https://github.com/tmlabonte/weakly-supervised-DETR)]
 
 ## 2022
 ### WSOD
-- Salvage of Supervision in Weakly Supervised Detection. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2106.04073)]]
-- H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection. **[CVPR 2022]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf)]  [[`official code-torch`](https://github.com/XuYunqiu/H2FA_R-CNN)]
-- Object Discovery via Contrastive Learning for Weakly Supervised Object Detection. **[ECCV 2022]** [[`pdf`](https://arxiv.org/abs/2208.07576)]  [[`official code-torch`](https://github.com/jinhseo/OD-WSCL)]
-- Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts. **[CVIU 2022]** [[`pdf`](https://arxiv.org/abs/2008.01178)]  [[`official code-tf`](https://github.com/ngonthier/Mi_max)]
-- Selecting High-Quality Proposals for Weakly Supervised Object Detection With Bottom-Up Aggregated Attention and Phase-Aware Loss. **[TIP 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/10003247)]]
-- FI-WSOD: Foreground Information Guided Weakly Supervised Object Detection. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/9854139)]]
-- Weakly Supervised Object Detection with Class Prototypical Network. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/abstract/document/9826802)]]
+- **[SoS]** Salvage of Supervision in Weakly Supervised Detection. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2106.04073)]
+- **[H2FA_R-CNN]** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection. **[CVPR 2022]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf)]  [[`official code-torch`](https://github.com/XuYunqiu/H2FA_R-CNN)]
+- **[OD-WSCL]** Object Discovery via Contrastive Learning for Weakly Supervised Object Detection. **[ECCV 2022]** [[`pdf`](https://arxiv.org/abs/2208.07576)]  [[`official code-torch`](https://github.com/jinhseo/OD-WSCL)]
+- **[Mi_max]** Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts. **[CVIU 2022]** [[`pdf`](https://arxiv.org/abs/2008.01178)]  [[`official code-tf`](https://github.com/ngonthier/Mi_max)]
+- **[BUAA]** Selecting High-Quality Proposals for Weakly Supervised Object Detection With Bottom-Up Aggregated Attention and Phase-Aware Loss. **[TIP 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/10003247)] [[`official code-torch`](https://github.com/Horatio9702/BUAA_PALoss)]
+- **[FI-WSOD]** FI-WSOD: Foreground Information Guided Weakly Supervised Object Detection. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/9854139)]
+- **[CPNet]** Weakly Supervised Object Detection with Class Prototypical Network. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/abstract/document/9826802)]
 ### WSOL
-- Weakly Supervised Object Localization as Domain Adaption. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2203.01714)]  [[`official code-torch`](https://github.com/zh460045050/DA-WSOL_CVPR2022)]
-- ViTOL: Vision Transformer for Weakly Supervised Object Localization. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2204.06772)]  [[`official code-torch`](https://github.com/Saurav-31/ViTOL)]
+- **[DA-WSOL]** Weakly Supervised Object Localization as Domain Adaption. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2203.01714)]  [[`official code-torch`](https://github.com/zh460045050/DA-WSOL_CVPR2022)]
+- **[ViTOL]** ViTOL: Vision Transformer for Weakly Supervised Object Localization. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2204.06772)]  [[`official code-torch`](https://github.com/Saurav-31/ViTOL)]
 - Background Activation Suppression for Weakly Supervised Object Localization. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2112.00580)]  [[`official code-torch`](https://github.com/wpy1999/BAS)]
-- CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping. **[CVPR 2022]** [[`pdf`](https://arxiv.org/pdf/2205.13922.pdf)]  [[`official code-torch`](https://github.com/Jazzcharles/CREAM)]
-- Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2204.00220)]]
-- C2AM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2203.13505)]  [[`official code-torch`](https://github.com/CVI-SZU/CCAM)]
+- **[CREAM]** CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping. **[CVPR 2022]** [[`pdf`](https://arxiv.org/pdf/2205.13922.pdf)]  [[`official code-torch`](https://github.com/Jazzcharles/CREAM)]
+- Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2204.00220)]
+- **[C2AM]** C2AM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2203.13505)]  [[`official code-torch`](https://github.com/CVI-SZU/CCAM)]
 
 ## 2021
 ### WSOD
-
 - Instance Mining with Class Feature Banks for Weakly Supervised Object Detection. **[AAAI 2021]** [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/16429)]]
-
+- **[GradingNet]** GradingNet: Towards Providing Reliable Supervisions for Weakly Supervised Object Detection by Grading the Box Candidates. **[AAAI 2021]** [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/16261)]
+- **[LBBA-boosted WSOD]** Boosting Weakly Supervised Object Detection via Learning Bounding Box Adjusters. **[ICCV 2021]** [[`pdf`](https://arxiv.org/abs/2108.01499)]  [[`official code-torch`](https://github.com/DongSky/lbba_boosted_wsod)]
+- **[PDSL]** Parallel Detection-and-Segmentation Learning for Weakly Supervised Instance Segmentation. **[ICCV 2021]** [[`pdf`](https://openaccess.thecvf.com/content/ICCV2021/papers/Shen_Parallel_Detection-and-Segmentation_Learning_for_Weakly_Supervised_Instance_Segmentation_ICCV_2021_paper.pdf)]  [[`official code-torch`](https://github.com/shenyunhang/PDSL)]
+- **[AIR]** Multiple Instance Detection Networks With Adaptive Instance Refinement. **[TMM 2021]** [[`pdf`](https://ieeexplore.ieee.org/document/9612070)]
 ### WSOL
-- . **[CVPR 2021]** [[`pdf`]()]  [[`official code-torch`]()]
+- **[SPOL]** Shallow Feature Matters for Weakly Supervised Object Localization. **[CVPR 2021]** [[`pdf`](https://arxiv.org/abs/2108.00873)]  [[`official code-torch`](https://github.com/weijun88/SPOL)]
+- **[SPA]** Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization. **[CVPR 2021]** [[`pdf`](https://arxiv.org/abs/2103.04523)]  [[`official code-torch`](github.com/Panxjia/SPA)]
+- **[SLT-Net]** Strengthen Learning Tolerance for Weakly Supervised Object Localization. **[CVPR 2021]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf)]  [[`official code-torch`](https://github.com/gyguo/SLT-Net)]
+- **[FAM]** Foreground Activation Maps for Weakly Supervised Object Localization. **[ICCV 2021]** [[`pdf`](https://openaccess.thecvf.com/content/ICCV2021/html/Meng_Foreground_Activation_Maps_for_Weakly_Supervised_Object_Localization_ICCV_2021_paper.html)]
+- **[ORNet]** Online Refinement of Low-level Feature Based Activation Map for Weakly Supervised Object Localization. **[ICCV 2021]** [[`pdf`](https://arxiv.org/abs/2110.05741)]  [[`official code-torch`](https://github.com/Sierkinhane/ORNet)]
 
 ## 2020
 
