@@ -1,5 +1,5 @@
 # Weakly supervised object detection (WSOD)
-A paper list of state-of-the-art weakly supervised object detection (WSOD) or localization (WSOL).
+A paper list of state-of-the-art weakly supervised object detection (**WSOD**) and weakly supervised object localization (**WSOL**).
 
 
 <div align="center">
@@ -64,32 +64,28 @@ A paper list of state-of-the-art weakly supervised object detection (WSOD) or lo
 - **[ORNet]** Online Refinement of Low-level Feature Based Activation Map for Weakly Supervised Object Localization. **[ICCV 2021]** [[`pdf`](https://arxiv.org/abs/2110.05741)]  [[`official code-torch`](https://github.com/Sierkinhane/ORNet)]
 
 ## 2020
-
+### WSOD
 - High-Quality Proposals for Weakly Supervised Object Detection. **[TIP 2020]**
-
 - Progressive Representation Adaptation for Weakly Supervised Object Localization. **[PAMI 2020]** [[`pdf`](https://arxiv.org/abs/1710.04647)]
-
-- Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection. **[CVPR 2020]** [[`pdf`](https://arxiv.org/abs/2004.04725)]  [[`official code`](https://github.com/NVlabs/wetectron)] 
-
+- **[MIST]** Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection. **[CVPR 2020]** [[`pdf`](https://arxiv.org/abs/2004.04725)]  [[`official code`](https://github.com/NVlabs/wetectron)] 
 - **[SLV]** SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection. **[CVPR 2020]** [[`pdf`](https://arxiv.org/abs/2006.12884)]
-
-- **[OIM]** Object Instance Mining for Weakly Supervised Object Detection. **[AAI 2020]** [[`pdf`](https://arxiv.org/abs/2002.01087)]  [[`official code-caffe`](https://github.com/bigvideoresearch/OIM)]
-
+- **[OIM]** Object Instance Mining for Weakly Supervised Object Detection. **[AAAI 2020]** [[`pdf`](https://arxiv.org/abs/2002.01087)]  [[`official code-caffe`](https://github.com/bigvideoresearch/OIM)]
 - **[BOICR]** Distilling Knowledge from Refinement in Multiple Instance Detection Networks. **[Deep Vision 2020 CVPR workshop]** [[`pdf`](https://arxiv.org/abs/2004.10943)] [[`official code-torch`](https://github.com/luiszeni/Boosted-OICR)]
-
 - **[WSOD Transfer]** Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer. **[ECCV 2020]** [[`pdf`](http://arxiv.org/abs/2007.07986)] [[`official code-torch`](https://github.com/mikuhatsune/wsod_transfer)]
+- Enabling Deep Residual Networks for Weakly Supervised Object Detection. **[ECCV 2020]** [[`pdf`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530120.pdf)] [[`official code-caffe`](https://github.com/shenyunhang/DRN-WSOD)] [[`official code-torch`](https://github.com/shenyunhang/DRN-WSOD-pytorch/tree/DRN-WSOD/projects/WSL)]
+- **[CASD]** Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection. **[NeurIPS 2020]** [[`pdf`](http://arxiv.org/abs/2010.12023)] [[`official code-torch`](https://github.com/DeLightCMU/CASD)]
+- **[UWSOD]** UWSOD: Toward Fully-Supervised-Level Capacity Weakly Supervised Object Detection. **[NeurIPS 2020]** [[`pdf`](https://proceedings.neurips.cc/paper_files/paper/2020/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf)] [[`official code-torch`](https://github.com/shenyunhang/UWSOD)]
+- Weakly Supervised Object Detection Using Proposal- and Semantic-Level Relationships. **[TPAMI 2020]** [[`pdf`](https://ieeexplore.ieee.org/document/9303471)]
 
+### WSOL
 - **[EIL]** Erasing Integrated Learning : A Simple yet Effective Approach for Weakly Supervised Object Localization. **[ CVPR 2020]** [[`pdf`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mai_Erasing_Integrated_Learning_A_Simple_Yet_Effective_Approach_for_Weakly_CVPR_2020_paper.pdf)]
-
 - **[PSOL]** Rethinking the Route Towards Weakly Supervised Object Localization. **[CVPR 2020]** [[`pdf`](http://arxiv.org/abs/2002.11359)]
-
-- **[CASD]** Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection. **[NIPS 2020]** [[`pdf`](http://arxiv.org/abs/2010.12023)] [[`official code-torch`](https://github.com/DeLightCMU/CASD)]
-
-- Enabling Deep Residual Networks for Weakly Supervised Object Detection. **[ECCV 2020]** [[`official code-caffe`](https://github.com/shenyunhang/DRN-WSOD)] [[`official code-torch`](https://github.com/shenyunhang/DRN-WSOD-pytorch/tree/DRN-WSOD/projects/WSL)]
-
-- **[UWSOD]** UWSOD: Toward Fully-Supervised-Level Capacity Weakly Supervised Object Detection. **[NIPS 2020]** 
+- **[GC-Net]** Geometry Constrained Weakly Supervised Object Localization. **[ECCV 2020]** [[`pdf`](https://arxiv.org/abs/2007.09727)]  [[`official code-torch`](https://github.com/lwzeng/GC-Net)]
+- **[I2C]** Inter-Image Communication for Weakly Supervised Localization. **[ECCV 2020]** [[`pdf`](https://arxiv.org/abs/2008.05096)]  [[`official code-torch`](https://github.com/xiaomengyc/I2C)]
+- **[wsolevaluation]** Evaluating Weakly Supervised Object Localization Methods Right. **[CVPR 2020]** [[`pdf`](https://arxiv.org/abs/2001.07437)]  [[`official code-torch`](https://github.com/clovaai/wsolevaluation)]
 
 ## 2019
+### WSOD
 - **[ADWSOD]** Activity Driven Weakly Supervised Object Detection. **[CVPR 2019]** [[`pdf`](https://arxiv.org/abs/1803.11365)]
 - Utilizing the Instability in Weakly Supervised Object Detection. **[CVPR 2019]** [[`pdf`](https://arxiv.org/abs/1906.06023)]
 - **[WS-JDS]** Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. **[CVPR 2019]** [[`pdf`](http://www.vie.group/media/pdf/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] [[`official code-caffe`](https://github.com/shenyunhang/WS-JDS)]
@@ -104,9 +100,16 @@ A paper list of state-of-the-art weakly supervised object detection (WSOD) or lo
 - **[MELM]** Min-entropy latent model for weakly supervised object detection. **[TPAMI 2019]** [[`pdf`](https://arxiv.org/abs/1902.06057)]  [[`official code-torch`](https://github.com/WinFrand/MELM)]
 - Self Paced Deep Learning for Weakly Supervised Object Detection. **[PAML 2019]** [[`pdf`](https://arxiv.org/abs/1605.07651)]  [[`official code-caffe`](https://github.com/moinnabi/SelfPacedDeepLearning)]
 - **[CSC]** Category-Aware Spatial Constraint for Weakly Supervised Detection. **[ TIP 2019]** [[`pdf`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8809899&tag=1)] [[`official code-caffe`](https://github.com/shenyunhang/CSC)]
-- **[PSNet]** WSOD with PSNet and Box Regression. **[ 2019]** [[`pdf`](https://arxiv.org/abs/1911.11512)]
+- **[PSNet]** WSOD with PSNet and Box Regression. **[arXiv 2019]** [[`pdf`](https://arxiv.org/abs/1911.11512)]
+- **[C-SPCL]** Leveraging Prior-Knowledge for Weakly Supervised Object Detection Under a Collaborative Self-Paced Curriculum Learning Framework. **[IJCV 2019]** [[`pdf`](https://link.springer.com/article/10.1007/s11263-018-1112-4)]
+
+### WSOL
+- **[ADL]** Attention-based dropout layer for weakly supervised object localization. **[CVPR 2019]** [[`pdf`](https://arxiv.org/abs/1908.10028)]  [[`official code-tf`](https://github.com/junsukchoe/ADL)]
+- **[DANet]** DANet: Divergent Activation for Weakly Supervised Object Localization. **[ICCV 2019]** [[`pdf`](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)]  [[`official code-torch`](https://github.com/xuehaolan/DANet)]
+
 
 ## 2018
+### WSOD
 - Multi-evidence Filtering and Fusion for Multi-label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning. **[CVPR 2018]** [[`pdf`](https://arxiv.org/abs/1802.09129)]
 - Zigzag Learning for Weakly Supervised Object Detection. **[CVPR 2018]** [[`pdf`](https://arxiv.org/abs/1804.09466)]
 - **[W2F]** W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection. **[CVPR 2018]** [[`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.pdf)]
@@ -175,7 +178,7 @@ A paper list of state-of-the-art weakly supervised object detection (WSOD) or lo
 
 ---
 # Contact & Feedback
-If you have any suggestions about papers, feel free to mail me :)
+If you have any suggestions about this list, feel free to mail me :)
 - [Email](21112034@bjtu.edu.cn)
 - [Pull Request](https://github.com/CatOneTwo/Weakly-Supervised-Object-Detection/pulls)
 
