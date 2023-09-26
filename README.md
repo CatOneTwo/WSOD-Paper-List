@@ -183,8 +183,8 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 ---
 # Contact & Feedback
 If you have any suggestions about this list, feel free to mail me :)
-- [Email](21112034@bjtu.edu.cn)
-- [Pull Request](https://github.com/CatOneTwo/Weakly-Supervised-Object-Detection/pulls)
+- Email: 21112034@bjtu.edu.cn
+- Pull Request: https://github.com/CatOneTwo/Weakly-Supervised-Object-Detection/pulls
 
 
 
