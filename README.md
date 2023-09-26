@@ -28,7 +28,6 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 
 ## 2023
 **WSOD**
-- **[weakmono3d]** Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2303.08686)]  [[`official code`](https://github.com/weakmono3d/weakmono3d)]
 - **[DETR-GA]** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2304.07082)]
 - **[WS-DETR]** Scaling Novel Object Detection with Weakly Supervised Detection Transformers. **[WACV 2023]** [[`pdf`](https://arxiv.org/pdf/2207.05205.pdf)]  [[`official code-torch`](https://github.com/tmlabonte/weakly-supervised-DETR)]
 
