@@ -62,6 +62,7 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 - **[LBBA-boosted WSOD]** Boosting Weakly Supervised Object Detection via Learning Bounding Box Adjusters. **[ICCV 2021]** [[`pdf`](https://arxiv.org/abs/2108.01499)]  [[`official code-torch`](https://github.com/DongSky/lbba_boosted_wsod)]
 - **[PDSL]** Parallel Detection-and-Segmentation Learning for Weakly Supervised Instance Segmentation. **[ICCV 2021]** [[`pdf`](https://openaccess.thecvf.com/content/ICCV2021/papers/Shen_Parallel_Detection-and-Segmentation_Learning_for_Weakly_Supervised_Instance_Segmentation_ICCV_2021_paper.pdf)]  [[`official code-torch`](https://github.com/shenyunhang/PDSL)]
 - **[AIR]** Multiple Instance Detection Networks With Adaptive Instance Refinement. **[TMM 2021]** [[`pdf`](https://ieeexplore.ieee.org/document/9612070)]
+- **[P-MIDN]** Pyramidal multiple instance detection network with mask guided self-correction for weakly supervised object detection. **[TIP 2021]** [[`pdf`](https://ieeexplore.ieee.org/document/9353395)]
 
 **WSOL**
 - **[SPOL]** Shallow Feature Matters for Weakly Supervised Object Localization. **[CVPR 2021]** [[`pdf`](https://arxiv.org/abs/2108.00873)]  [[`official code-torch`](https://github.com/weijun88/SPOL)]
