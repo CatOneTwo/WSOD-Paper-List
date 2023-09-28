@@ -30,6 +30,12 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 **WSOD**
 - **[DETR-GA]** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection. **[CVPR 2023]** [[`pdf`](https://arxiv.org/abs/2304.07082)]
 - **[WS-DETR]** Scaling Novel Object Detection with Weakly Supervised Detection Transformers. **[WACV 2023]** [[`pdf`](https://arxiv.org/pdf/2207.05205.pdf)]  [[`official code-torch`](https://github.com/tmlabonte/weakly-supervised-DETR)]
+- **[WSOD-CBL]** Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection. **[ICCV 2023]** [[`pdf`](https://arxiv.org/pdf/2308.05991.pdf)]  [[`official code-torch`](https://github.com/Yinyf0804/WSOD-CBL)]
+
+**WSOL**
+- **[CATR]** Category-aware Allocation Transformer for Weakly Supervised Object Localization. **[ICCV 2023]** [[`pdf`](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Category-aware_Allocation_Transformer_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]  [[`official code-torch`](https://github.com/zhiweichen0012/CATR)]
+- **[GenPromp]** Generative Prompt Model for Weakly Supervised Object Localization. **[ICCV 2023]** [[`pdf`](https://arxiv.org/pdf/2307.09756.pdf)]  [[`official code-torch`](https://github.com/callsys/GenPromp)]
+- **[SAT]** Spatial-Aware Token for Weakly Supervised Object Localizatio. **[ICCV 2023]** [[`pdf`](https://arxiv.org/pdf/2303.10438.pdf)]  [[`official code-torch`](https://github.com/wpy1999/SAT)]
 
 ## 2022
 **WSOD**
