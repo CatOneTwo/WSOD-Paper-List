@@ -46,6 +46,7 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 - **[BUAA]** Selecting High-Quality Proposals for Weakly Supervised Object Detection With Bottom-Up Aggregated Attention and Phase-Aware Loss. **[TIP 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/10003247)] [[`official code-torch`](https://github.com/Horatio9702/BUAA_PALoss)]
 - **[FI-WSOD]** FI-WSOD: Foreground Information Guided Weakly Supervised Object Detection. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/document/9854139)]
 - **[CPNet]** Weakly Supervised Object Detection with Class Prototypical Network. **[TMM 2022]** [[`pdf`](https://ieeexplore.ieee.org/abstract/document/9826802)]
+- **[H2FA R-CNN]** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection. **[CVPR 2022]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf)] [[`official code-torch`](https://github.com/XuYunqiu/H2FA_R-CNN)]
 
 **WSOL**
 - **[DA-WSOL]** Weakly Supervised Object Localization as Domain Adaption. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2203.01714)]  [[`official code-torch`](https://github.com/zh460045050/DA-WSOL_CVPR2022)]
