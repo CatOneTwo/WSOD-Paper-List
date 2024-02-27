@@ -39,7 +39,7 @@ A paper list of state-of-the-art weakly supervised object detection (**WSOD**) a
 
 ## 2022
 **WSOD**
-- **[SoS]** Salvage of Supervision in Weakly Supervised Detection. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2106.04073)]
+- **[SoS]** Salvage of Supervision in Weakly Supervised Detection. **[CVPR 2022]** [[`pdf`](https://arxiv.org/abs/2106.04073)]  [[`official code-torch`](https://github.com/suilin0432/SoS-WSOD)]
 - **[H2FA_R-CNN]** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection. **[CVPR 2022]** [[`pdf`](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf)]  [[`official code-torch`](https://github.com/XuYunqiu/H2FA_R-CNN)]
 - **[OD-WSCL]** Object Discovery via Contrastive Learning for Weakly Supervised Object Detection. **[ECCV 2022]** [[`pdf`](https://arxiv.org/abs/2208.07576)]  [[`official code-torch`](https://github.com/jinhseo/OD-WSCL)]
 - **[Mi_max]** Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts. **[CVIU 2022]** [[`pdf`](https://arxiv.org/abs/2008.01178)]  [[`official code-tf`](https://github.com/ngonthier/Mi_max)]
